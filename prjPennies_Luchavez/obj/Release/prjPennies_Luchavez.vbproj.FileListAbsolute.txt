@@ -1,0 +1,13 @@
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\bin\Release\Resources\UI.png
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\bin\Release\prjPennies_Luchavez.exe.config
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\bin\Release\prjPennies_Luchavez.exe
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\bin\Release\prjPennies_Luchavez.pdb
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\bin\Release\prjPennies_Luchavez.xml
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.vbprojAssemblyReference.cache
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.frmMain.resources
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.Resources.resources
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.vbproj.GenerateResource.cache
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.exe
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.xml
+D:\Visual Studio\Week 3\prjPennies_Luchavez\prjPennies_Luchavez\obj\Release\prjPennies_Luchavez.pdb
